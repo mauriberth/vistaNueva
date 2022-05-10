@@ -3,11 +3,10 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
 ## Requerimientos (necesarios para correr el proyecto)
-npm install ```
-npm i
 ```
-npm i bootstrap ```
+npm i
 
+npm i bootstrap
 ```
 
 ## Development server
